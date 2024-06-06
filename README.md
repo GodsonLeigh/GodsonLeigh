@@ -1,4 +1,10 @@
 ## Hi there 👋 I'm Leigh Godson
+I am a full stack developer working on client projects and currently on the DEFRA FCP programme
+
+After many years as a frontend enthusiast, primarily working on UI and UX projects I made the switch to backend development with my main focus being Node.JS 
+
+🌱 I’m currently learning - well, everything really. Having avoided backend work for so long, every day is a learning day.
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=GodsonLeigh&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
