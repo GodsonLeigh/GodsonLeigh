@@ -1,5 +1,5 @@
 ## Hi there 👋 I'm Leigh Godson
-[![trophy](https://github-profile-trophy.vercel.app/?username=GodsonLeigh&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy
+[![trophy](https://github-profile-trophy.vercel.app/?username=GodsonLeigh&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **GodsonLeigh/GodsonLeigh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
