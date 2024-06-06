@@ -5,6 +5,10 @@ After many years as a frontend enthusiast, primarily working on UI and UX projec
 
 🌱 I’m currently learning - well, everything really. Having avoided backend work for so long, every day is a learning day.
 
+Day to day, it's Node development, PostGres, a bit of Docker and Kubernetes, some CI/CD and DevOps tasks and all through Azure
+
+Apparently I got some trophies to show I have done some work, so here they are  :
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=GodsonLeigh&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
