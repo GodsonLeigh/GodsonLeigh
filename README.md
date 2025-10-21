@@ -10,6 +10,7 @@ Day to day, it's Node development, PostGres, a bit of Docker and Kubernetes, som
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=godsonleigh&show_icons=true&theme=radical&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 [![trophy](https://github-profile-trophy.vercel.app/?username=GodsonLeigh&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=godsonleigh&theme=radical
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=godsonleigh&layout=compact)
 
