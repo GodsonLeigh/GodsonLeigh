@@ -7,9 +7,11 @@ After many years as a frontend enthusiast, primarily working on UI and UX projec
 
 Day to day, it's Node development, PostGres, a bit of Docker and Kubernetes, some CI/CD and DevOps tasks and all through Azure
 
-Apparently I got some trophies to show I have done some work, so here they are  :
 
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=godsonleigh&show_icons=true&theme=radical&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 [![trophy](https://github-profile-trophy.vercel.app/?username=GodsonLeigh&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=godsonleigh&layout=compact)
 
 <!--
 **GodsonLeigh/GodsonLeigh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
