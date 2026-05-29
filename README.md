@@ -8,9 +8,9 @@ After many years as a frontend enthusiast, primarily working on UI and UX projec
 Day to day, it's Node development, PostGres, a bit of Docker and Kubernetes, some CI/CD and DevOps tasks and all through Azure
 
 
+[![Leighs GitHub stats](https://vercel.app)](https://github.com)
 
-![Leighs GitHub stats](https://github-readme-stats.vercel.app/api?username=GodsonLeigh&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GodsonLeigh)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=GodsonLeigh)](https://git.io/streak-stats)
 
 <!--
 **GodsonLeigh/GodsonLeigh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
