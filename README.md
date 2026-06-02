@@ -8,9 +8,9 @@ After many years as a frontend enthusiast, primarily working on UI and UX projec
 Day to day, it's Node development, PostGres, a bit of Docker and Kubernetes, some CI/CD and DevOps tasks and all through Azure
 
 
-[![Leighs GitHub stats](https://vercel.app)](https://github.com)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/GodsonLeigh?cardType=level&theme=tokyonight&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=GodsonLeigh)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=GodsonLeigh&theme=solarized-dark&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
 <!--
 **GodsonLeigh/GodsonLeigh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
