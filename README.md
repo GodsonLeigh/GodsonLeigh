@@ -1,12 +1,8 @@
 ## Hi there 👋 I'm Leigh Godson
-I am a full stack developer working on client projects and currently on the DEFRA FCP programme
+I am a full stack developer working on client projects and currently on the DEFRA Farming & Countryside programme
 
-After many years as a frontend enthusiast, primarily working on UI and UX projects I made the switch to backend development with my main focus being Node.JS 
-
-🌱 I’m currently learning - well, everything really. Having avoided backend work for so long, every day is a learning day.
-
-Day to day, it's Node development, PostGres, a bit of Docker and Kubernetes, some CI/CD and DevOps tasks and all through Azure
-
+Day to day it's Javascript, Node.js and the whole remit of Docker, Kubernetes and Micro Services with the hosted versions being across the Azure ecosystem.
+Feel free to check out my previus work, there's a lot to choose from.
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/GodsonLeigh?cardType=level&theme=tokyonight&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
 
